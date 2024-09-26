@@ -1,6 +1,6 @@
 * {margin: 20; padding: 20; font-size: 100%; border: none; outline: none; font-weight: 300; box-sizing: border-box;
     font-family: 'Lato', sans-serif;}
-    body {background-color: #00b3ff;}
+    body {background-color: #df0606;}
     a {text-decoration: none;}
     ul {list-style: none;}
     img {max-width: 70%;}
@@ -9,7 +9,7 @@
     
     .bg-gradient {background: linear-gradient(to right,#ce2e3c,#008000);}
     .bg-black {background-color: #030000; }
-    .bg-white {background-color: #009ee2;}
+    .bg-white {background-color: #ea530e;}
     
     .radius {border-radius: 7px;}
     /* CABEÇALHO */
@@ -21,8 +21,8 @@
     .btn-close {font-size: 1.5em; color: #000000; float: right; cursor: pointer; margin: 2% 3% 0 0;}
     .menu ul {width: 100%; float: left; text-align: center;}
     .menu li {padding: 1.5%;}
-    .menu li a {font-size: 2em; color: #4fcaff; padding: 1.5% 3%;}
-    .menu li a:hover {border:1px solid #da6709;}
+    .menu li a {font-size: 2em; color: #000000; padding: 1.5% 3%;}
+    .menu li a:hover {border:1px solid #1bdeb7;}
     /* BANNER */
     .banner {background: url(../img/banner1.jpg) no-repeat fixed;}
     .title {width: 100%;}
